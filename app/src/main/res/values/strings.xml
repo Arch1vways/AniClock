@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">AniClock</string>
+    <string name="xposed_description">(OriginOS only) All credits belArtist the original artist 日下こかげ (Kusaka Kokage) @K_KOKAGE on Twitter/X and to the original creator of the AniTime widget for MacOS, Charlie Chiang</string>
+
+    <string name="status_ok">Module is active</string>
+    <string name="status_fail">Module is not active</string>
+
+    <string name="preview">Preview</string>
+    <string name="preview_empty">Could not load</string>
+
+
+    <string name="appearance">Appearance</string>
+    <string name="replace_clock">AniClock</string>
+    <string name="style">Style</string>
+    <string name="style_animated">Animated</string>
+    <string name="style_static">Static</string>
+    <string name="format">Format</string>
+    <string name="format_system">System</string>
+    <string name="format_12">12h</string>
+    <string name="format_24">24h</string>
+    <string name="seconds">Seconds</string>
+    <string name="date_hide">Hide date</string>
+
+    <string name="placement">Settings</string>
+    <string name="size">Size</string>
+    <string name="spacing">Spacing</string>
+    <string name="offset">Vertical offset</string>
+    <string name="value_percent">%1$d%%</string>
+    <string name="value_dp">%1$s dp</string>
+
+    <string name="color">Color</string>
+    <string name="tint">Recolor</string>
+    <string name="hex_description">HEX color</string>
+    <string name="open_picker">Open the color wheel</string>
+    <string name="picker_title">Color</string>
+    <string name="brightness">Brightness</string>
+    <string name="rgb_red">Red</string>
+    <string name="rgb_green">Green</string>
+    <string name="rgb_blue">Blue</string>
+    <string name="color_wheel">Color wheel</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="reset">Reset settings</string>
+    <string name="reset_title">Reset settings?</string>
+    <string name="reset_message">All settings go back to their defaults</string>
+    <string name="reset_confirm">Reset</string>
+</resources>

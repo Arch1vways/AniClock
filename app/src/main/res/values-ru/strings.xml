@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">AniClock</string>
+    <string name="xposed_description">(OriginOS only) All credits belArtist the original artist 日下こかげ (Kusaka Kokage) @K_KOKAGE on Twitter/X and to the original creator of the AniTime widget for MacOS, Charlie Chiang</string>
+
+    <string name="status_ok">Модуль активен</string>
+    <string name="status_fail">Модуль не активен</string>
+
+    <string name="preview">Предпросмотр</string>
+    <string name="preview_empty">Не удалось загрузить</string>
+
+
+    <string name="appearance">Настройки</string>
+    <string name="replace_clock">Часы AniClock</string>
+    <string name="style">Стиль</string>
+    <string name="style_animated">Анимированные</string>
+    <string name="style_static">Статичные</string>
+    <string name="format">Формат часов</string>
+    <string name="format_system">Система</string>
+    <string name="format_12">12ч</string>
+    <string name="format_24">24ч</string>
+    <string name="seconds">Секунды</string>
+    <string name="date_hide">Скрыть дату</string>
+
+    <string name="placement">Размер и положение</string>
+    <string name="size">Размер</string>
+    <string name="spacing">Расстояние</string>
+    <string name="offset">Сдвиг по вертикали</string>
+    <string name="value_percent">%1$d%%</string>
+    <string name="value_dp">%1$s dp</string>
+
+    <string name="color">Цвет</string>
+    <string name="tint">Перекрас</string>
+    <string name="hex_description">Цвет в формате HEX</string>
+    <string name="open_picker">Открыть цветовой круг</string>
+    <string name="picker_title">Цвет</string>
+    <string name="brightness">Яркость</string>
+    <string name="rgb_red">Красный</string>
+    <string name="rgb_green">Зелёный</string>
+    <string name="rgb_blue">Синий</string>
+    <string name="color_wheel">Цветовой круг</string>
+    <string name="done">Готово</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="reset">Сбросить настройки</string>
+    <string name="reset_title">Сбросить настройки?</string>
+    <string name="reset_message">Все настройки вернутся к значениям по умолчанию</string>
+    <string name="reset_confirm">Сбросить</string>
+</resources>
