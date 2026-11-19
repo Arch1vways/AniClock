@@ -17,3 +17,7 @@ make
 ```
 
 The built APK is located at `dist/*.apk`.
+
+## Credits
+
+All credits belong to the original artist **日下こかげ (Kusaka Kokage)** (`@K_KOKAGE` on Twitter/X) and to the original creator of the AniTime widget for macOS, **Charlie Chiang**.
